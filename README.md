@@ -1,2 +1,2 @@
 # All-Power-BI-Dashboards
-All power BI dashboards which i develop or create are here
+In this US Health Insurance Dashboard . I have to analyze the data of the health insurance company and have to do analysis and hvae to build powerful dashboard to extract meaningful insights from it . I have to find applied insurance charges based on sex , region , age and many more . 
